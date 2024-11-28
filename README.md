@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Mohammed Zain Uddin</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-![image](https://github.com/user-attachments/assets/450ae825-b39f-4c9a-865a-760a173838cd)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
